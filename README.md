@@ -56,4 +56,4 @@
 
 ## URLs
 Github repositry link: https://github.com/AdamGabo/eStoreThatSellsCarStuff <br>
-[Deployed application link: https://stormy-wildwood-35895.herokuapp.com/]
+Deployed application link: https://stormy-wildwood-35895.herokuapp.com/
