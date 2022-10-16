@@ -55,6 +55,6 @@
 </p>
 
 ## URLs
-Github repositry link: https://github.com/AdamGabo/eStoreThatSellsCarStuff <br>
+Github repository link: https://github.com/asrabilal/Auto_Auto-Cars-Dealership.git <br>
 Deployed application link: https://stormy-wildwood-35895.herokuapp.com/ <br>
 Deployed Portfolio link:https://asrabilal.github.io/Portfolio/
