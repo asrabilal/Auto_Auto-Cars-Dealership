@@ -1,3 +1,6 @@
+
+ ![AutoAuto Website](./public/pictures/website-example.png)
+
 # Auto_Auto Car Dealership
   ## Licensing:
   [![license](https://img.shields.io/badge/license-MIT-blue)](https://shields.io)
@@ -9,6 +12,7 @@
   - [Testing](#testing)
   - [Questions](#questions)
   - [Additional Info](#additional-info)
+ 
  
   ## Description:
   We created a website that allows our users to buy thier dream cars over the internet with secure login process. Users can login and view variety of cars with their description and set up meeting schedule.
@@ -49,3 +53,7 @@
     <img src="https://img.shields.io/badge/-npm-yellow" />
     <img src="https://img.shields.io/badge/-Jest-orange" />
 </p>
+
+## URLs
+Github repositry link: https://github.com/AdamGabo/eStoreThatSellsCarStuff <br>
+[Deployed application link: https://stormy-wildwood-35895.herokuapp.com/]
